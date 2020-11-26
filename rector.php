@@ -17,11 +17,6 @@ return static function (ContainerConfigurator $config) : void {
     $params->set(Option::IMPORT_SHORT_CLASSES, false);
 
     $params->set(Option::SETS, [
-        SetList::PHP_56,
-        SetList::PHP_70,
-        SetList::PHP_71,
         SetList::PHP_72,
-        SetList::PHP_73,
-        SetList::PHP_74,
     ]);
 };
