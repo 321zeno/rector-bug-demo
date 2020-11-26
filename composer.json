@@ -1,0 +1,13 @@
+{
+    "name": "321zeno/rector-bug-demo",
+    "type": "project",
+    "require": {
+        "rector/rector": "^0.8.56"
+    },
+    "authors": [
+        {
+            "name": "Zeno Zaplaic",
+            "email": "zeno.zaplaic@gmail.com"
+        }
+    ]
+}
